@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0591044f-9ea2-d1c1-1f32-6670b11d0a6b
 resourcetype: Document
 title: RESEARCH PAPER STYLE SHEET
 uid: d4cd24c4-8cc9-5153-0a0c-332eaae09a6e
