@@ -5,6 +5,7 @@ file: /courses/21a-801j-cross-cultural-investigations-technology-and-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: RESEARCH PAPER STYLE SHEET
 uid: d4cd24c4-8cc9-5153-0a0c-332eaae09a6e
 ---
 This file contains information regarding style sheet.
-

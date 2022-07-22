@@ -5,6 +5,7 @@ file: /courses/21a-801j-cross-cultural-investigations-technology-and-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Group Project
 uid: 5e85c27c-1d08-bda9-8f23-0b2334bd3bea
 ---
 This file contains information regarding final project assignment sheet.
-

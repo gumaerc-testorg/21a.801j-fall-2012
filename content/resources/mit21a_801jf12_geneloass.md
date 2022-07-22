@@ -5,6 +5,7 @@ file: /courses/21a-801j-cross-cultural-investigations-technology-and-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Sept
 uid: 32ac651d-3b3c-7c9d-8b20-31ac153ba625
 ---
 This file contains information regarding genealogy.
-

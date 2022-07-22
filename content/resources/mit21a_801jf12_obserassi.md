@@ -5,6 +5,7 @@ file: /courses/21a-801j-cross-cultural-investigations-technology-and-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Oct
 uid: bece526b-146e-8385-9905-b550c69e1f9f
 ---
 This file contains information regarding participant-observation.
-
