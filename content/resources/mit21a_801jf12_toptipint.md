@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding top tips for interviewing.
-file: /courses/21a-801j-cross-cultural-investigations-technology-and-development-fall-2012/1c43a19053c2b3cd7ea8d52dd54323d7_MIT21A_801JF12_TopTipInt.pdf
+file: /ol-ocw-studio-app/courses/21a-801j-cross-cultural-investigations-technology-and-development-fall-2012/1c43a19053c2b3cd7ea8d52dd54323d7_MIT21A_801JF12_TopTipInt.pdf
 file_size: 100558
 file_type: application/pdf
 learning_resource_types:

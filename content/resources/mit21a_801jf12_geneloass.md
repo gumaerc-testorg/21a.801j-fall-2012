@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding genealogy.
-file: /courses/21a-801j-cross-cultural-investigations-technology-and-development-fall-2012/32ac651d3b3c7c9d8b2031ac153ba625_MIT21A_801JF12_GeneloAss.pdf
+file: /ol-ocw-studio-app/courses/21a-801j-cross-cultural-investigations-technology-and-development-fall-2012/32ac651d3b3c7c9d8b2031ac153ba625_MIT21A_801JF12_GeneloAss.pdf
 file_size: 29319
 file_type: application/pdf
 learning_resource_types:
