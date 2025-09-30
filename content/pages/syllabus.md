@@ -161,7 +161,7 @@ Microfinance vs. fair trade
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-[Workshop on Gender, Technology and Development](http://gendertech.weebly.com/schedule.html)
+{{% resource_link "526f2349-bfc8-4fe8-aba7-22a8707c30bd" "Workshop on Gender, Technology and Development" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -185,7 +185,7 @@ In-class practicum on public health promotion: how to design a (flexible) safe s
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Visit to [D-Lab](http://d-lab.mit.edu/) to learn about possible final project topics
+Visit to {{% resource_link "6340befa-7b62-4b8f-abe3-70c12222b8d0" "D-Lab" %}} to learn about possible final project topics
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
